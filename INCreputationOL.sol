@@ -15,7 +15,7 @@ contract Ownable {
      * account.
      */
     constructor () internal {
-        _owner = "0x077086E2bc65a728E2aE0d7E22e4A767cE7802b3";
+        _owner = 0x077086E2bc65a728E2aE0d7E22e4A767cE7802b3;
         emit OwnershipTransferred(address(0), _owner);
     }
 
