@@ -1,6 +1,6 @@
-**Internet Native Contributor Covenant**
+## **Internet Native Contributor Covenant**
 
-*of that internet-native company located at [[INC Github Address]]*
+> *of that internet-native company located at [[INC Github Address]]*
 
 **Our Pledge**
 
